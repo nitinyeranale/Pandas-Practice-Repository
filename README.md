@@ -4,6 +4,8 @@
   </a>
 </p>
 
+![Pandas logo](https://pandas.pydata.org/static/img/pandas_white.svg)
+
 A repository containing my practice files and exercises while learning Pandas, covering data manipulation, filtering, cleaning, aggregation, merging, and visualization. 🚀
 
 

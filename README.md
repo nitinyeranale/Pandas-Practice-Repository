@@ -9,3 +9,7 @@ This repository contains my practice files and exercises while learning Pandas, 
 - Data cleaning and preprocessing
 - Aggregation and group operations
 - Merging and joining datasets
+
+
+## Contributions
+Feel free to fork the repository and submit pull requests if you have improvements or additional practice examples to share.

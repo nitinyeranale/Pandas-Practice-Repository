@@ -1,7 +1,12 @@
 # Pandas-in-Python-
 A repository containing my practice files and exercises while learning Pandas, covering data manipulation, filtering, cleaning, aggregation, merging, and visualization. 🚀
 
-(https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="120" height="40"/>
+  </a>
+</p>
+
 
 
 ## Overview
